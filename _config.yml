@@ -11,3 +11,5 @@ twitter_username: mistapetroz
 github_username:  mistapetroz
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-tactile
